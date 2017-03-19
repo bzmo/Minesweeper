@@ -3,7 +3,6 @@
 
 Play the original Minesweeper game on Beginner, Intermediate, and Expert difficulty levels.
 
-<br>
 <b>To Play:</b>
 <br>
 
